@@ -1,0 +1,13 @@
+#category {
+    width: 25%;
+
+    background-color: antiquewhite;
+    max-height: calc(100vh - 9rem);
+    overflow-y: auto;
+    float: left;
+}
+
+#location {
+    float: right;
+    width: 75%;
+}
