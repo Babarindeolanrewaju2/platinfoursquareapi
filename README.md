@@ -12,7 +12,7 @@ Please follow these instuctions below.
 
 Download the files
 
-After downloading, run these commands below in the directory of the project via the terminal:
+After downloading, run these commands below in the root directory of the project via the terminal:
 
 Assuming the project on your Desktop.
 
