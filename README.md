@@ -1,4 +1,4 @@
-# PlatinGaming Task
+#  Task
 
 A task using foursquare api
 
